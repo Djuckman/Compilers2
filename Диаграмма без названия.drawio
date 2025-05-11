@@ -223,7 +223,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Начало&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="196" width="112" height="52" as="geometry" />
+          <mxGeometry x="445" y="70" width="112" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OqAVg-qIwdLdBP7LWuad-2" target="OqAVg-qIwdLdBP7LWuad-4">
           <mxGeometry relative="1" as="geometry" />
@@ -232,64 +232,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Состояние 1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="373" width="112" height="52" as="geometry" />
+          <mxGeometry x="291" y="247" width="112" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OqAVg-qIwdLdBP7LWuad-3" target="OqAVg-qIwdLdBP7LWuad-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="868" y="306" />
-              <mxPoint x="868" y="502" />
+              <mxPoint x="879" y="180" />
+              <mxPoint x="879" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="OqAVg-qIwdLdBP7LWuad-3" target="OqAVg-qIwdLdBP7LWuad-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="518" y="324" />
-              <mxPoint x="518" y="448" />
-              <mxPoint x="554" y="448" />
-              <mxPoint x="554" y="450" />
+              <mxPoint x="529" y="198" />
+              <mxPoint x="529" y="322" />
+              <mxPoint x="565" y="322" />
+              <mxPoint x="565" y="324" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Начальное состояние&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="280" width="112" height="52" as="geometry" />
+          <mxGeometry x="445" y="154" width="112" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Конец&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="476" width="112" height="52" as="geometry" />
+          <mxGeometry x="455" y="350" width="112" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OqAVg-qIwdLdBP7LWuad-5" target="OqAVg-qIwdLdBP7LWuad-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="672" y="425" />
-              <mxPoint x="672" y="306" />
+              <mxPoint x="683" y="299" />
+              <mxPoint x="683" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OqAVg-qIwdLdBP7LWuad-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OqAVg-qIwdLdBP7LWuad-5" target="OqAVg-qIwdLdBP7LWuad-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Состояние 2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="588" y="425" width="112" height="52" as="geometry" />
+          <mxGeometry x="599" y="299" width="112" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OqAVg-qIwdLdBP7LWuad-3" target="OqAVg-qIwdLdBP7LWuad-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="336" y="344" as="sourcePoint" />
-            <mxPoint x="386" y="294" as="targetPoint" />
+            <mxPoint x="347" y="218" as="sourcePoint" />
+            <mxPoint x="397" y="168" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="378" y="308" />
-              <mxPoint x="238" y="350" />
+              <mxPoint x="389" y="182" />
+              <mxPoint x="249" y="224" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-9" value="Нажатие &quot;Справка&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="262" y="302" width="130" height="30" as="geometry" />
+          <mxGeometry x="273" y="176" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-19" value="Нажатие &quot;Назад&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="392" y="350" width="102" height="30" as="geometry" />
+          <mxGeometry x="403" y="224" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-20" value="Нажатие &quot;Назад&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="630" y="364" width="102" height="30" as="geometry" />
+          <mxGeometry x="641" y="238" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OqAVg-qIwdLdBP7LWuad-22" value="Заполнение &quot;Имя&quot;&lt;div&gt;Заполнение &quot;Фамилия&quot;&lt;/div&gt;&lt;div&gt;Отметка &quot;Согласен&quot;&lt;/div&gt;&lt;div&gt;Нажатие &quot;Вперед&quot;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="522" y="348" width="154" height="62" as="geometry" />
+          <mxGeometry x="533" y="222" width="154" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
