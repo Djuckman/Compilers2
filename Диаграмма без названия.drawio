@@ -1150,16 +1150,26 @@
           <mxGeometry x="315" y="1368" width="109" height="52" as="geometry" />
         </mxCell>
         <mxCell id="d2WZTP94nazzg4Je3axt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d2WZTP94nazzg4Je3axt-3" target="d2WZTP94nazzg4Je3axt-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="1318" />
+              <mxPoint x="630" y="1342" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="d2WZTP94nazzg4Je3axt-3" value="Получение информации о графическом интерфейсе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="1288" width="109" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="d2WZTP94nazzg4Je3axt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d2WZTP94nazzg4Je3axt-4" target="d2WZTP94nazzg4Je3axt-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="1394" />
+              <mxPoint x="630" y="1342" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="d2WZTP94nazzg4Je3axt-4" value="Обнаружение текста с использованием OCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490.5" y="1402" width="125" height="52" as="geometry" />
+          <mxGeometry x="459" y="1368" width="125" height="52" as="geometry" />
         </mxCell>
         <mxCell id="d2WZTP94nazzg4Je3axt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d2WZTP94nazzg4Je3axt-5" target="d2WZTP94nazzg4Je3axt-6">
           <mxGeometry relative="1" as="geometry" />
